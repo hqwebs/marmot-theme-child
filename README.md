@@ -27,7 +27,7 @@ It protects your changes to be overwritten on update of main theme.
 <h2>Installation</h2>
 
 <ol>
-<li>Download theme from <a href="https://github.com/hqwebs/marmot-theme-child/releases/latest/download/marmot-theme-child.zip">https://github.com/hqwebs/marmot-theme-child/releases/latest/download/marmot-theme-child.zip</a></li>
+<li>Download theme from <a href="https://github.com/hqwebs/marmot-theme-child/releases/download/1.0.0/marmot-theme-child.zip">https://github.com/hqwebs/marmot-theme-child/releases/download/1.0.0/marmot-theme-child.zip</a></li>
 <li>In WordPress dashboard, go to Appearance » Themes</li>
 <li>Click on "Add New"</li>
 <li>Click on "Upload Theme" and the file on your computer and select it</li>
